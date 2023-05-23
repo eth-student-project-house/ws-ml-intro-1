@@ -1,0 +1,4 @@
+SPH Project: Seismohealth
+Seismohealth is a smartwatch for structures: an AI platform that translates vibrations into structural condition metrics. We introduce the era of Internet of Structures, where intelligent algorithms optimize maintenance planning. We analyze structural vibrations due to environmental excitation and operational loading (e.g. wind and traffic), based on limited low-tech sensors that are attached to the monitored structures. By sensing vibrations, we identify different damage-sources, including internal deficiencies, independent from the construction material. Owners of large infrastructure portfolios aim to maximize the safe operational life of their assets, which translates to higher investment return and lower environmental footprint. Finally, the collected data consist a secure investment towards a BIM oriented future.
+
+<figure><img alt="" src="https://sph.ethz.ch/uploads/images/Seismohealth_second.png"/></figure>

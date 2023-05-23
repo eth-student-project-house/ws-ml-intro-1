@@ -1,0 +1,8 @@
+SPH Project: Rimon Technologies
+Rimon develops a platform, such that companies can create Augmented Reality (AR) Step-by-Step (SBS) instructions, simply using four components: Images, Videos, CAD-Models &amp; the logic. The first three components are used to guide the front line worker through the process, the fourth component is where the process is written down. Writing this logic simple legacy tools, like Excel can be used or using an XML interface we can directly connect to existing CMS-Systems. These AR SBS instructions can then be run on AR glasses or AR capable handheld devices.  
+ This simple approach makes AR SBS instructions more accessible to front line workers, including the benefits that come with it. AR SBS instructions have shown to reduce time of a process while also reducing errors, resulting in a more efficient process simply because the frontline worker knows what to do when and where.  
+ In the background these AR SBS instructions document the process automatically creating a work-documentation and can then be further enriched with images, videos and notes for each step in the process. This reduces the administrative work for frontline workers and improving the quality of their documentation, increasing their productive time and the quality of their documentations.  
+This documentation can then be further used for training purposes by showing real footage from the field to train the next generation of frontline workers. This allows companies to generate deeper intelligence into their processes, which is not possible using paper-based or PDF instructions, enabling companies to make better decisions and improve processes.
+
+
+SOURCE: https://sph.ethz.ch/projects/rimon

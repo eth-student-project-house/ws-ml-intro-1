@@ -1,0 +1,9 @@
+<p>You too can make it happen: <strong><a href="https://hic.ethz-foundation.ch/en/challenge/" target="_blank" rel="noreferrer noopener">the new Centre for Students and Entrepreneurs.</a></strong></p>
+<p>This planned construction on the ETH Campus Hönggerberg is to be a vibrant centre of collaboration and exchange in which students and the ETH entrepreneurial community will fuel each other’s ideas and come together in new projects.<strong> <span class="drawer purple">Prototypes will be built in workshops</span>;</strong> <span class="drawer cyan">new business ideas created</span> in open plan offices. The centre will be <span class="drawer green"><strong>a hub of science and industry</strong></span>, a place where budding talent can flourish. Young researchers and potential entrepreneurs will have the chance to collect valuable experiences beyond their curriculum, expand their network and drive promising technological solutions forward.</p>
+<figure><a href="https://hic.ethz-foundation.ch/en/challenge/" target="_blank" rel="noreferrer noopener"><img src="https://sph.ethz.ch/uploads/images/HIC_Alumni_Challenge_A5_hoch_EN.jpg" alt="Your Donnation will be doubled!" /></a></figure>
+<p>Thanks to a fund matching initiative <strong>launched by </strong><span class="drawer pink"><strong>Fondation Alcea</strong></span>, each contribution to the Centre for Students and Entrepreneurs donated by ETH alumnae and alumni* will be matched 1:1. <strong>Your donation will double in value!</strong></p>
+<p>Support now: <a href="https://hic.ethz-foundation.ch/en/challenge/" target="_blank" rel="noreferrer noopener">hic.ethz-foundation.ch</a></p>
+<p><em>*the match applies not only to all donations from alumnae and alumni, but also from other private individuals such as ETH members, and from companies stemming from ETH such as ETH spin-offs.</em></p>
+<p><br /></p>
+
+SOURCE: https://sph.ethz.ch/news/challenge-build-hci-building

@@ -1,0 +1,2 @@
+SPH Project: ScienceLife
+ScienceLife is a cutting-edge scientific platform that harnesses the power of AI and blockchain technology to revolutionize the way research is conducted and shared. With a focus on networking, data management, and project management, ScienceLife aims to accelerate the transition to open research and empower scientists around the world to collaborate and share their findings in a secure, transparent and efficient way. Join the future of scientific discovery and be a part of the ScienceLife community.

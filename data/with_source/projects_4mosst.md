@@ -1,0 +1,7 @@
+SPH Project: 4MOSST
+We are developing an innovative self-growing paint that after application grows into vertical moss coverage on outdoor walls in cities, giving a new dimension to currently available green walls which are proven to be effective in combating the consequences of the current climate crisis.
+
+Our product is a paste-like structure, containing moss spores, binding material, and moisture protection for the wall. It is directly related to solving the problem of urban heat islands. We aim to make it available not only for professionals directly related to construction and planning but also local communities and neighbourhoods. With this we aim to create a sense of ownership and empower people to contribute to urban climate improvement. Moss walls have various benefits. They can purify the air and serve as an insulating layer on the building to save energy. The evapotranspiration of the moss is beneficial for fire prevention and cooling of the surroundings. The high surface area provides sound insulation and the more natural aesthetic, favorable for modern design, of cities contributes to improved mental health. They can additionally be shaped into art or advertisement. Moss walls are space-saving compared to conventional green walls. Additionally, some moss species can be used for pollution monitoring.
+
+
+SOURCE: https://sph.ethz.ch/projects/4mosst

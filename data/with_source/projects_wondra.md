@@ -1,0 +1,5 @@
+SPH Project: Wondra.
+Wondra's mission is to connect you to people you would not have met otherwise. People that you walk by at university and have no idea of what cool friendships could be possible with them. It’s a platform that has the goal to eliminate the chances of you missing out on whatever opportunity imaginable. Because oftentimes, people you have not met yet bring opportunities that could positively change your path in this simulation…Those people you will be meeting could be your future date, best friend, a friend that connects you to your future best friend, your cofounder of your iron suit company, your most loyal party buddy or just your dance partner…Anyway, be open! Life is fragile! It’s time to see and experience everything to the fullest… don’t be a fool! Talk to people. You have absolutely nothing to lose and everything to win!
+
+
+SOURCE: https://sph.ethz.ch/projects/wondra

@@ -1,0 +1,2 @@
+SPH Project: Fyn Foods (now Fabas)
+Meet Cyrill, Anik and Tobias. Together, we run Fyn Foods, that produces organic, plant-based and tasty food from local farmers without any additives. We introduce protein crops such as chickpeas to Switzerland to increase the production of local plant-based protein. Our first product is hummus, which we sell online, in organic stores and in Alnatura all over Switzerland.

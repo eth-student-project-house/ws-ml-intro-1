@@ -1,0 +1,7 @@
+<p>For all students who are committed to sustainability and are looking for like-minded people, the Student Sustainability Committee (SSC) at ETH Zurich is a good place to start! As a student-led organisation, the SSC works with various departments and organisations to promote sustainability through events, projects and initiatives.</p>
+<figure><img src="https://sph.ethz.ch/uploads/images/SSC-Instagram-Post.png" alt="" /><figcaption>SSC – Instagram Ad</figcaption></figure>
+<p>In March, the SSC hosted an Open Hour every Tuesday afternoon at SPH, where students could raise their questions, uncertainties and discussions about sustainability. The topics discussed were diverse and included areas such as dealing with negative feelings and linking career entry to aspects of sustainability that are particularly relevant to students. The Open Hour was also an opportunity for the SSC to reflect on organisational issues and strategise on how to proceed in the future.<br /></p>
+<figure><img src="https://sph.ethz.ch/uploads/images/IMG_6642-Large.jpeg?1680104364776?1680104401817#asset:145570" alt="SSC Team" /><figcaption>SSC Team (From left to right: Victor, Jan &amp; Justine)</figcaption></figure>
+<p>The SSC welcomes everyone interested in promoting sustainability on campus and aims to provide a platform for exchange and learning. On the SSC website you can find out more about the SSC's tasks, upcoming events and how you can get involved.</p>
+
+SOURCE: https://sph.ethz.ch/news/sph-x-ssc-sustainability-open-hour
